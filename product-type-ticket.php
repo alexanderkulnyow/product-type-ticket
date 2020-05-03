@@ -19,3 +19,5 @@
  * Network:     true - активирует плагин для всей сети
  * Version:     1.0
  */
+
+echo 'hello world';
